@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1781198716505,
+      "tag": "0000_foamy_baron_zemo",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1781237820469,
+      "tag": "0001_medical_la_nuit",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1781244076922,
+      "tag": "0002_real_bishop",
+      "breakpoints": true
+    }
+  ]
+}
